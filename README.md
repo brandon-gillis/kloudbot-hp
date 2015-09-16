@@ -1,10 +1,4 @@
-# R2-D8
+# Kloudbot
 
-A bot for the people of [tech256][tech256]. The name is a pretty awful play
-on [R2-D2][r2d2] where in we replaced the last 2 with an 8 because 256 is
-2^8 `¯\_(ツ)_/¯`. The bot is based on [Lita][lita].
-
-
-[tech256]: http://tech256.com
-[r2d2]: http://en.wikipedia.org/wiki/R2-D2
-[lita]: https://www.lita.io
+A bot for the people of the HP DevOps Team. The name is a pretty awful play
+on the fact that our cloud has 1 thousand things. `¯\_(ツ)_/¯`. The bot is based on [Lita][lita].
