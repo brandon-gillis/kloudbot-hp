@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+ruby "2.1.6"
+
+gem "lita"
+gem "lita-slack"
+gem "lita-karma"
+gem "lita-slack-karma-sync"
+gem "lita-memegen"
+gem "lita-poll"
+gem "lita-replace"
+gem "lita-static-meme"
+gem "lita-tinysong"
+gem "lita-google-images"
+gem 'lita-chuck_norris'
+gem "lita-giphy"
