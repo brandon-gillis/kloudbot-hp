@@ -26,6 +26,8 @@ GEM
       thor (>= 0.18.1)
     lita-chuck_norris (0.0.1)
       lita (>= 3.0)
+    lita-claydavis (0.2.0)
+      lita (>= 4.3)
     lita-giphy (1.0.2)
       lita (>= 2.0)
     lita-google-images (2.0.0)
@@ -75,6 +77,7 @@ PLATFORMS
 DEPENDENCIES
   lita
   lita-chuck_norris
+  lita-claydavis
   lita-giphy
   lita-google-images
   lita-karma
