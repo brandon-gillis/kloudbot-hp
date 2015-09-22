@@ -13,3 +13,4 @@ gem "lita-tinysong"
 gem "lita-google-images"
 gem 'lita-chuck_norris'
 gem "lita-giphy"
+gem "lita-claydavis"
