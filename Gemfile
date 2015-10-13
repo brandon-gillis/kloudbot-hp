@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.1.6"
+ruby "2.2.2"
 
 gem "lita"
 gem "lita-slack"
@@ -14,3 +14,4 @@ gem "lita-google-images"
 gem 'lita-chuck_norris'
 gem "lita-giphy"
 gem "lita-claydavis"
+gem "lita-pugbomb"
